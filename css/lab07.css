@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+}
+select{ text-align: center;
+    width: 400px;
+    border-radius: 20px;
+    margin-top: 5em;
+}
+.inputOne{
+    width: 180px;
+    border-radius: 3px;
+}
+.createTable{
+    padding-top: 1em;
+    position: center;
+    display: none;
+    left: 35%;
+}
+
+
+
+
+button{
+    width: 200px;
+    border-radius: 4px;
+    box-shadow: #F50057;
+    background-color: #9ce9bb;
+  margin: auto;
+    display: none;
+}
+table{
+    margin: auto;
+}
+td{
+    width: 100px;
+}
+.divone{
+    display: none;
+    margin: auto;
+}
